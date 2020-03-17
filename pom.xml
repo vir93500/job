@@ -67,11 +67,6 @@
 			</exclusions>
 		</dependency>
 		<dependency>
-			<groupId>com.axisbank.common</groupId>
-			<artifactId>commons</artifactId>
-			<version>0.0.2</version>
-		</dependency>
-		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<version>1.18.8</version>
